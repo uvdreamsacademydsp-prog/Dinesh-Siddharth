@@ -1,0 +1,6 @@
+{
+  "name": "Mana Choice",
+  "description": "Dual-purpose helper combining AI Study/Exam Prep and Smart Grocery Management. Features study chat, grocery logs, and recipe generator with Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
